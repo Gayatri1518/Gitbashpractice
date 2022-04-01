@@ -1,0 +1,7 @@
+Class AddingNewFile
+{
+@Test
+{
+System.out.println("file added successfully");
+}
+}
